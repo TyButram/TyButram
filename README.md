@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Currently a student learning C# with The Programmer Coach.
 <!--
 **TyButram/TyButram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
